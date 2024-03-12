@@ -17,7 +17,7 @@ class JunkUtil {
     static random = new Random()
 
     static abc = "abcdefghijklmnopqrstuvwxyz".toCharArray()
-    static color = "0123456789abcdef".toCharArray()
+    static color = "0123456789abcdefss".toCharArray()
 
     /**
      * 生成名称
